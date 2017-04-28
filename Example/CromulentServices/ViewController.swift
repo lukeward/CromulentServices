@@ -7,18 +7,17 @@
 //
 
 import UIKit
+import CromulentServices
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        let sut = Helpers()
+        let result = sut.addTwo(toNum: 8)
+        
+        print("Result: \(result)")
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
 }
 

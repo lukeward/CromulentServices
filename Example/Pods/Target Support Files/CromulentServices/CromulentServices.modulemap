@@ -1,0 +1,6 @@
+framework module CromulentServices {
+  umbrella header "CromulentServices-umbrella.h"
+
+  export *
+  module * { export * }
+}
