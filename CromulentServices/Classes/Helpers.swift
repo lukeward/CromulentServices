@@ -15,4 +15,8 @@ public class Helpers {
     public func addTwo(toNum num: Int) -> Int {
         return num + 2
     }
+    
+    public func addTen(toNum num: Int) -> Int {
+        return num + 10
+    }
 }

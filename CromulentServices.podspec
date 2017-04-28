@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
     
   s.name         = 'CromulentServices'
-  s.version      = '0.0.1'
+  s.version      = '0.0.2'
   s.summary      = 'A test pod to prove I can make one.'
 
   s.description  = <<-DESC
