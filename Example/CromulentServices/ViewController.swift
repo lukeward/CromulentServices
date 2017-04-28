@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  CromulentServices
 //
-//  Created by lukeward@hotmail.com on 04/28/2017.
-//  Copyright (c) 2017 lukeward@hotmail.com. All rights reserved.
+//  Created by Luke Ward.
 //
 
 import UIKit

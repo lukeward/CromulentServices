@@ -2,7 +2,7 @@
 //  Helpers.swift
 //  Pods
 //
-//  Created by Luke Ward (GMC-GSS-SR MOBILE APP DEVLPR, WEB) on 4/28/17.
+//  Created by Luke Ward.
 //
 //
 
